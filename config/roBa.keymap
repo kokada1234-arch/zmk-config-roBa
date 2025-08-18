@@ -53,6 +53,26 @@
             bindings = <&kp EQUAL>;
             key-positions = <24 25>;
         };
+
+        kako1 {
+            bindings = <&kp LEFT_PARENTHESIS>;
+            key-positions = <5 6>;
+        };
+
+        kako2 {
+            bindings = <&kp RIGHT_PARENTHESIS>;
+            key-positions = <6 7>;
+        };
+
+        equal {
+            bindings = <&kp EQUAL>;
+            key-positions = <7 8>;
+        };
+
+        atmark {
+            bindings = <&kp AT>;
+            key-positions = <1 2>;
+        };
     };
 
     macros {
