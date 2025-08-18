@@ -55,17 +55,17 @@
         };
 
         kako1 {
-            bindings = <&kp LEFT_PARENTHESIS>;
+            bindings = <&kp LPAR>;
             key-positions = <5 6>;
         };
 
         kako2 {
-            bindings = <&kp RIGHT_PARENTHESIS>;
+            bindings = <&kp RPAR>;
             key-positions = <6 7>;
         };
 
         equal {
-            bindings = <&kp EQUAL>;
+            bindings = <&kp KP_EQUAL>;
             key-positions = <7 8>;
         };
 
